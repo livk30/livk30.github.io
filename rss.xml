@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>AI学习日记</title>
+    <link>https://livk30.github.io/</link>
+    <description>记录AI学习路上的点滴收获与思考</description>
+    <language>zh-CN</language>
+    <item>
+        <title>从Transformer到GPT：大语言模型进化简史</title>
+        <link>https://livk30.github.io/posts/second-post.html</link>
+        <description>从2017年Google提出Transformer架构，到如今GPT-4、Claude等大模型的百花齐放，大语言模型的发展堪称波澜壮阔。</description>
+        <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>我的AI学习之路：从零开始学机器学习</title>
+        <link>https://livk30.github.io/posts/first-post.html</link>
+        <description>作为一名AI初学者，我决定记录下自己的学习历程。</description>
+        <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
